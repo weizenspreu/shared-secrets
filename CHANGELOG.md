@@ -1,4 +1,8 @@
-# 0.41b1 (2024-8-18)
+# 0.41b2 (2025-10-13)
+
+* update to Bootstrap 5.3.8
+
+# 0.41b1 (2024-08-18)
 
 * improve mobile usability
 * disable error logs in NGINX config

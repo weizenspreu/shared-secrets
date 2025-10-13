@@ -1,7 +1,7 @@
 <?php
-# Shared-Secrets v0.41b2
+# Shared-Secrets v0.42b2
 #
-# Copyright (c) 2023-2024, Yahe
+# Copyright (c) 2023-2024, WeizenSpreu
 # Copyright (c) 2016-2023, SysEleven GmbH
 # All rights reserved.
 #
