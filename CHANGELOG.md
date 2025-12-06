@@ -1,3 +1,7 @@
+# 0.41b3 (2025-12-06)
+
+* fix Dockerfile for PHP 8.4
+
 # 0.41b2 (2025-10-13)
 
 * update to Bootstrap 5.3.8

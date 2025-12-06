@@ -7,7 +7,7 @@ RUN apk add --no-cache aspell nginx php php-bcmath php-bz2 php-common php-ctype 
 
 # fix missing links
 
-RUN ln -s /usr/sbin/php-fpm83 /usr/sbin/php-fpm
+RUN ln -s /usr/sbin/php-fpm84 /usr/sbin/php-fpm
 
 # fix missing users
 
